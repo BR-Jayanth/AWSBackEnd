@@ -8,7 +8,7 @@ dotenv.config();
 
 
 app.get('/',(req,res)=>{
-    res.json({message:'hello world'});
+    res.json({message:'hello worlnddnnddd'});
 })
 
 
